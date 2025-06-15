@@ -14,7 +14,8 @@ This is a visually interactive HR Analytics Dashboard created using Microsoft Ex
 - 📅 Average Age & Active Employees: Summary KPIs shown at the top.
 
 📂 File Contents
-- `Dashboard Excel.jpg`: A snapshot of the completed Excel dashboard.
+- `Dashboard Excel.jpg`:![image](https://github.com/user-attachments/assets/f4779de6-fc48-4238-8e6d-6f99c4c87d48)
+
 -  Dataset
 -`HR_Analytics_Dashboard.xlsx`: The working Excel file 
 - `README.md`: This file – explanation of the dashboard and project purpose.
